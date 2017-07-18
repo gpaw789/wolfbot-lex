@@ -7,7 +7,7 @@ WolfBot is your personal stock market companion on Slack! It can fetch your stoc
 
 ## Demo
 
-[Youtube Demo Video](https://www.youtube.com/watch?v=J09vn6q_ijA)
+[Youtube Demo Video](https://youtu.be/qLd8xrJMaSc)
 
 Note: This is my submission for [AWS Chatbot Challenge](https://aws.amazon.com/blogs/aws/announcing-the-aws-chatbot-challenge-create-conversational-intelligent-chatbots-using-amazon-lex-and-aws-lambda/)
 
