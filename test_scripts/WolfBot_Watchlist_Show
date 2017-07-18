@@ -1,0 +1,17 @@
+{
+  "inputTranscript": "show me my watchlist",
+  "currentIntent": {
+    "name": "WolfBot_Watchlist_Show",
+    "confirmationStatus": "None"
+  },
+  "bot": {
+    "alias": "$LATEST",
+    "version": "$LATEST",
+    "name": "WolfBot_Watchlist_Show"
+  },
+  "userId": "Alfred",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}

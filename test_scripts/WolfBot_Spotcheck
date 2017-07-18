@@ -1,0 +1,20 @@
+{
+  "inputTranscript": "check $AMZN",
+  "currentIntent": {
+    "slots": {
+      "symbol": "$AMZN"
+    },
+    "name": "WolfBot_SpotcheckB",
+    "confirmationStatus": "None"
+  },
+  "bot": {
+    "alias": "$LATEST",
+    "version": "$LATEST",
+    "name": "WolfBot_SpotcheckB"
+  },
+  "userId": "John",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}

@@ -1,0 +1,20 @@
+{
+  "inputTranscript": "remove $TSLA to my watch list",
+  "currentIntent": {
+    "name": "WolfBot_Watchlist_Delete",
+    "confirmationStatus": "None",
+        "slots": {
+        "symbol": "TSLA"
+    }
+  },
+  "bot": {
+    "alias": "$LATEST",
+    "version": "$LATEST",
+    "name": "WolfBot_Watchlist_Delete"
+  },
+  "userId": "John",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}

@@ -1,0 +1,23 @@
+{
+  "inputTranscript": "$AMZN from 2017-01-01 to 2017-02-01",
+
+  "currentIntent": {
+    "slots": {
+     "start_date": "2017-01-01",
+     "end_date": "2017-02-01",
+      "symbol": "$AMZN"
+    },
+    "name": "WolfBot_HistoryC",
+    "confirmationStatus": "None"
+  },
+  "bot": {
+    "alias": "$LATEST",
+    "version": "$LATEST",
+    "name": "WolfBot_HistoryC"
+  },
+  "userId": "John",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}

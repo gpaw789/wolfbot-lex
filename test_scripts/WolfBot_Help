@@ -1,0 +1,17 @@
+{
+  "inputTranscript": "help",
+  "currentIntent": {
+    "name": "WolfBot_Help",
+    "confirmationStatus": "None"
+  },
+  "bot": {
+    "alias": "$LATEST",
+    "version": "$LATEST",
+    "name": "WolfBot_Help"
+  },
+  "userId": "John",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}

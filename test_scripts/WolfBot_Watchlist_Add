@@ -1,0 +1,22 @@
+{
+  "inputTranscript": "add $TSLA to my watch list",
+  "currentIntent": {
+    "name": "WolfBot_Watchlist_Add",
+    "confirmationStatus": "None",
+    "slots": {
+        "symbol": "TSLA"
+    }
+
+
+  },
+  "bot": {
+    "alias": "$LATEST",
+    "version": "$LATEST",
+    "name": "WolfBot_Watchlist_Add"
+  },
+  "userId": "Terry",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}
