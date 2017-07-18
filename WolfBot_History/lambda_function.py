@@ -233,9 +233,9 @@ def action_WolfBot_History(intent_request):
     )
 
 
-    #staging imgur client
-    client_id = 'e8c4821cd07428e'
-    client_secret = 'd943f1ec060983f8bb41ffcfb8efc2e44f569ca6'
+    #staging imgur client - use https://api.imgur.com/oauth2/addclient
+    client_id = 'GET_YOUR_OWN'
+    client_secret = 'GET_YOUR_OWN'
     client = ImgurClient(client_id, client_secret)
 
     # filter the output
