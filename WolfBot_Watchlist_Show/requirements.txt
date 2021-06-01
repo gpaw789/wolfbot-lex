@@ -11,4 +11,4 @@ requests==2.18.1
 s3transfer==0.1.10
 simplejson==3.11.1
 six==1.10.0
-urllib3==1.21.1
+urllib3==1.26.5
